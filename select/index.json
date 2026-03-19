@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "抱きしめたいほど美しい日々に",
   "base_artist": "くじら",
-  "createdAt": "2026-03-13T11:00:45.430392Z",
+  "createdAt": "2026-03-19T07:29:09.162765Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "くじら",
       "has_synced": false,
       "path": "select/pl_01_抱きしめたいほど美しい日々に_くじら.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "抱きしめたいほど美しい日々に",
+      "artist": "くじら",
+      "has_synced": true,
+      "path": "select/localdb_01_抱きしめたいほど美しい日々に_くじら.lrc",
+      "repo_name": "dX592rVoQLQ"
     }
   ]
 }
